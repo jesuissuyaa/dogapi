@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kashi-lab/scala/dogapi/src/main/scala/model/Dog.scala:13:34: value PrimaryKey is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val id = column[Int]("id", 0.PrimaryKey, 0.AutoInc)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kashi-lab/scala/dogapi/src/main/scala/model/Dog.scala:13:48: value AutoInc is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val id = column[Int]("id", 0.PrimaryKey, 0.AutoInc)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
